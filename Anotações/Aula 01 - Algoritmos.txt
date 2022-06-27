@@ -1,0 +1,51 @@
+1.O que é Algoritmo?
+
+Estão em todos os lugares(digitais claro), controlando tudo apartir de conjuntos de algoritmos.
+
+"Algoritmos são conjuntos de passos finitos e organizados que, quando executados, resolvem um deteerminado ploblema."
+
+2.Proporsão Áurea:
+
+Está presente na determinação de uma pessoa conssiderada "bonita", assimetrica.
+Támbém é utilizada em diversos meis, como arte e grandes estruturas, como o Partenal na Grecia.
+
+Acabamos por gostar disso, sem perceber, pelo fato de estar definido como "bonito/atraende" à muito tempo.
+
+3.1.Algoritmos exemplo: rotina de atravessar a rua
+
+Algoritmo AtravessarRua
+	Olhar para a direita
+	Olhar para a esquerda
+	Se estiver vindo carro
+		Não Atravesse
+	senão
+		Atravesse
+	Fim-se
+Fim-Algoritmo
+
+3.2.Outro exemplo:
+
+Algoritmo AtravessarRua
+	Olhar para a esquerda
+	Olhar para a direita
+	Se não estiver vindo carro
+		Atravesse
+	senão
+		Não Atravesse
+	Fim-se
+Fim-Algoritmo
+
+3.3.Exemplo não funcional:
+
+Algoritmo AtravessarRua
+	Atravesse
+	Se estiver vindo carro
+		Olhar para a direita
+	senão
+		Olhar para a esquerda
+	Fim-se
+	Não Atravesse
+Fim-Algoritmo
+
+4.Contexto em Computadores:
+

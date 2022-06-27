@@ -1,0 +1,36 @@
+Aula 4 - Operadores Lógicos e Relacionais
+
+Códigos da aula: TRIANGULOS
+
+1. Operadores relacionais
+
+Retornam valores lógicos(verdadeiro ou falso)
+
+> - Maior que
+< - Menor que
+>= - Maior ou igual a
+<= - Menor ou igual a
+= - igual a
+<> - diferente de
+
+2. Operadores lógicos
+
+Retornam valores lógicos(verdadeiro ou falso)
+Comparam valores lógicos
+
+e - V e V  = V
+    V e F  = F
+    F e F  = F
+
+ou - V ou V = V
+	V ou F = V
+     F ou F = F
+
+nao - V = F
+	 F = V
+
+3.Ordem de precedência
+
+Aritméticos: () - ^ - */ - +-
+Relacionais: Todos
+Lógicas: e - ou - nao

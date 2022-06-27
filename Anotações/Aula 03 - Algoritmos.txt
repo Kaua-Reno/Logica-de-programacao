@@ -1,0 +1,36 @@
+Aula 03 - Comando de Entrada e Operações
+
+Códigos da aula: MEUNOME, VALORES e CONVERSOR
+
+1.Operadores aritméticos:
+
++ Adição
+- Subtração
+* Multiplicação
+/ Divisão
+\ Divisão Inteira
+^ Exponenciação
+% Módulo(resto da divisão)
+
+2.Ordem de precedencia
+
+1- () Parênteses
+2- ^ Exponenciação
+3- */ Multiplicação/Divisão
+4- +- Adição/Subtração
+
+Ex:
+3+2/2 = 4
+(3+2)/2 = 2.5
+
+3. funções aritmétricas
+
+Abs - Valor Absoluto
+Exp - Exponenciação
+Int - Valor Inteiro
+RaizQ - Raiz Quadrada
+Pi - Retorna Pi
+Sen - Seno (rad)
+Cos - Cosseno (rad)
+Tan - Tangente (rad)
+GraupRad - Graus para Rad

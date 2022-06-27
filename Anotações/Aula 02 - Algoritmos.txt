@@ -1,0 +1,57 @@
+Aula 02 - Primeiro Algoritmo
+
+Códigos da Aula: PRIMEIRO.
+
+1.Algoritmos Computacionais:
+
+São passos a sere seguidos por um módulo processador e seus respectivos usuários que, quando executados na ordem correta, conseguem realizar determina tarefa.
+
+Exemplos: sistemas de gestão, home bank, redes sociais, vídeos, games e etc.
+
+2.Criação de um Algoritmo Computacional:
+
+Passos:
+ 
+1-Lógica de programação;
+2-Linguagem de programação(escrever a lógica), ex: java;
+3-Sistema Completo(software);
+
+1-Lógica de programação, exemplos: fluxograma, Nassi Shneiderman(shapan), Portugol(maneira de representar a lógica de programação).
+
+Escreva("first") = escreve a mensagem
+Escreval("first e pula a linha") = escreve a mensagem e pula uma linha
+
+3.Variáveis:
+
+var
+	identificador: tipo
+
+
+3.1.Identificadores, regras:
+
+1. Deve começar com uma letra
+2. Os próximos podem ser letra ou números
+3. Não pode utilizar nenhum símbolo, exceto _
+4. Não pode conter espaços em branco
+5. Não pode conter letras com acentos
+6. não pode ser uma palavra reservada
+ex: Nota1(V) - Média(X)
+    Salário bruto(X)  -  9dade(X)
+    Algoritmo(X) -  Inicio_Algoritmo(V)
+
+3.2.Tipos prímitivos:
+
+Inteiro: ex: 1  3  -5  198  0
+Real: ex: 0.5  5.0  9.8  -77.3  3.1415
+Caractere: ex: "Gustavo" "Algoritmo" "123"
+Logico: ex: verdadeiro e falso
+
+3.3.Atribuições
+
+msg <- "Olá, Mundo!"
+
+4. Comandos de Saída:
+
+Escreva("msg") = msg
+Escreva(msg) = escreva o valor de msg
+Escreva("Mensagem", msg) = escrevera: Mensagem e o valor de msg
