@@ -1,0 +1,25 @@
+Aula 7 - Estruturas Condicionais
+
+Códigos da aula: CALCULOIDADE, CALCULOIMC, DIRIGIR, PAROUIMPAR e NOTAS
+
+1.Se:
+
+Se algo acontecer entao se realiza a proxima linha
+
+Código:
+
+Se (expressão) entao
+	Bloco
+FimSe
+
+2.Senao:
+
+Se a condição do "Se" não acontecer, então executa o senao.
+
+Código:
+
+Se (expressão) entao
+	Bloco A
+senao
+	Bloco B
+FimSe
