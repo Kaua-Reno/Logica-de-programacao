@@ -1,0 +1,5 @@
+Aula 6 - Exercícios de Algoritmos Resolvidos
+
+Códigos da aula: CONVERSOR_REAL, CONVERSOR_TEMP, TAXAS, IDADE e Parcelas.
+
+Aula prática, onde foi feito 4 programas básicos para exercitar a lógica.
